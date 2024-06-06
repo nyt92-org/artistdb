@@ -1,2 +1,21 @@
 # artistdb
-Quickly find artist you love from all around the world...
+
+```
+Coming Soon (2025)
+```
+
+Quickly find artists you love from all around the world within the site...
+
+## Feature
+
++ User
+  - Easily find artists that you liked
+  - Discover more artist biographies and social media
+  - Ability to upvote and downvote the artist
+  - No AI artist will be presented
+  - More plan soon...
+    
++ Developer
+  - Easily self-hosted your own instances
+  - Provided dashboard for easy access to all functionality
+  - More plan soon...
