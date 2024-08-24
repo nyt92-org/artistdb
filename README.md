@@ -1,5 +1,11 @@
 # artistdb
 
+## Submission
+
+We are now opening the submission form. Please add one of your favorite artists to the submission and we will review them.
+
+https://opnform.com/forms/artist-submission-form-uuwtrr
+
 ```
 Coming Soon (2025)
 ```
