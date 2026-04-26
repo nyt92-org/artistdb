@@ -1,27 +1,14 @@
-# artistdb
+# ArtistDB
 
-```
-Coming Soon (2025)
-```
+An Open Database of SFW & NSFW artists. 
 
-Quickly find artists you love from all around the world within the site...
+Visit now at https://artistdb.org  
+
+Documentation: https://docs.artistdb.org  
+Beta Version: https://beta.artistdb.org
 
 ## Submission
 
-We are now opening the submission form. Please add one of your favorite artists to the submission and we will review them.
+We are now opening the submission form. Please add one of your favorite artists to the submission and we will review them. Read the [guidelines](https://docs.artistdb.org/submission.html) before submission.
 
-https://opnform.com/forms/artist-submission-form-uuwtrr
-
-## Feature
-
-+ User
-  - Easily find artists that you liked
-  - Discover more artist biographies and social media
-  - Ability to upvote and downvote the artist
-  - No AI artist will be presented
-  - More plan soon...
-    
-+ Developer
-  - Easily self-hosted your own instances
-  - Provided dashboard for easy access to all functionality
-  - More plan soon...
+https://form.nyt92.eu.org/forms/artistdb
